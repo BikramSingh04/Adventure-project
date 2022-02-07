@@ -1,0 +1,88 @@
+body {
+    background: url("https://wallpapercave.com/wp/wp6725865.jpg");
+    color: white;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+p,
+.watchout {
+    font-family: 'Playfair Display', serif;
+    color: black;
+    font-size: 35px;
+}
+
+.title {
+    font-size: 50px;
+    background-color: #4B0082;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button,
+.next5a,
+.next5b,
+.next6,
+.clickforfun,
+.restart {
+    margin: 20px auto 10px auto;
+    display: block;
+    justify-content: center;
+}
+
+img {
+    border: 5px solid black;
+}
+
+.gasPedal {
+    width: 25%;
+}
+
+.steeringWheel {
+    width: 25%;
+}
+
+.calmDriving {
+    width: 25%;
+}
+
+.trafficlighta {
+    width: 15%;
+}
+
+.cop {
+    width: 35%;
+}
+
+/* The rest of the code is for displaying the pages */
+.page2 {
+    display: none;
+}
+
+.page3a {
+    display: none;
+}
+
+.page3b {
+    display: none;
+}
+
+.page4a {
+    display: none;
+}
+
+.page4b {
+    display: none;
+}
+
+.page5a {
+    display: none;
+}
+
+.page5b {
+    display: none;
+}
+
+.page6 {
+    display: none;
+}
